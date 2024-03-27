@@ -1,6 +1,6 @@
 # GWAS - PMC10602383
 
-## Odgovoriti na pitanja:
+## Tvoj tim sakuplja podatke o varijantama nađenim u GWAS radovima. Tebi su dali zadatak da pogledaš PMC10602383. Rešiti dole izlistane zadatke.
 
 1. Na koje pojmove treba da obratimo pažnju kad tražimo kvalitetan GWAS?
 ```text
@@ -38,6 +38,7 @@ Primer JSON fajla:
     ...
 ]
 ```
+5. Ažurirati "***previously_studied_variants.txt***" novim varijantama.
 5. Da li se ovaj proces može potpuno ili semi automatizovati? Ako je odgovor "da", ponuditi rešenje. Rešenje ne mora biti nužno tačno i potpuno.
 ```text
 Resenje:
